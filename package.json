@@ -10,7 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.20.0",
+    "leite": "^0.2.0",
     "math": "0.0.3",
-    "mathjs": "^7.1.0"
+    "mathjs": "^7.1.0",
+    "project-name-generator": "^2.1.7"
   }
 }
