@@ -11,6 +11,6 @@
   "dependencies": {
     "math": "0.0.3",
     "mathjs": "^7.1.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
